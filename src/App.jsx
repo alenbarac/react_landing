@@ -11,7 +11,6 @@ import {
   Hero,
   Stats,
   Testimonials,
-  Cta,
 } from './components'
 
 const App = () => (
